@@ -7,8 +7,8 @@
 - OS: Ubuntu
 - DB: MariaDB
 - DB管理: phpMyAdmin
-- Minecraftサーバーソフトウェア: paper(https://github.com/papermc/paper)
-- proxyサーバーソフトウェア: bungeecord(https://github.com/SpigotMC/BungeeCord)
+- Minecraftサーバーソフトウェア: paper (https://github.com/papermc/paper)
+- proxyサーバーソフトウェア: bungeecord (https://github.com/SpigotMC/BungeeCord)
 - クラウド: AWS EC2
 - 停電対策: UPS
 - 用途: ゲームサーバー運用、プレイヤーデータ管理
@@ -26,4 +26,6 @@
 - DB設計・運用
 - バックアップの重要性
 - オンプレミスとクラウドの違い
+- ポートフォワードの設定
+- DNSの設定
 - 利用条件、料金、税金など技術外の責任
