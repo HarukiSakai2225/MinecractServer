@@ -7,6 +7,8 @@
 - OS: Ubuntu
 - DB: MariaDB
 - DB管理: phpMyAdmin
+- Minecraftサーバーソフトウェア: paper(https://github.com/papermc/paper)
+- proxyサーバーソフトウェア: bungeecord(https://github.com/SpigotMC/BungeeCord)
 - クラウド: AWS EC2
 - 停電対策: UPS
 - 用途: ゲームサーバー運用、プレイヤーデータ管理
